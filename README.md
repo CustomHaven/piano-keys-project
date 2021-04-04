@@ -15,4 +15,4 @@ Small interactive game for a beginner level piano player
 
 > Project Completed
 
-[weblink for the completed project](https://customhaven.github.io/piano-keys-project//)
+[weblink for the completed project](https://customhaven.github.io/piano-keys-project/)
